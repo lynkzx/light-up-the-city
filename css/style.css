@@ -202,13 +202,13 @@ h1.logo a.navbar-brand {
 /*--//banner --*/
 
 .banner-sec-w3layouts {
-	background: url(../images/logo.jpeg) no-repeat 0px 0px;
+	background: url(../images/logo2.jpeg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
-	min-height: 800px;
+	height: 1000px;
 }
 
 /* Gibson Buttons */
@@ -705,6 +705,16 @@ ul.social_list1 li a:hover {
 	background-size: cover;
 	min-height: 192px;
 }
+.price-main-info .card-header2 {
+	background: url(../images/tickets\ children.jpeg)no-repeat 0px 0px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	background-size: cover;
+	min-height: 192px;
+}
+
 
 .price-main-info .card-body {
 	background: #fff;
