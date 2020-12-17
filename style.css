@@ -208,7 +208,7 @@ h1.logo a.navbar-brand {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
-	height: 1000px;
+	min-height: 800px;
 }
 
 /* Gibson Buttons */
@@ -697,7 +697,7 @@ ul.social_list1 li a:hover {
 }
 
 .price-main-info .card-header {
-	background: url(../images/ticket\ adults.jpeg)no-repeat 0px 0px;
+	background: url(../images/price.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -705,16 +705,6 @@ ul.social_list1 li a:hover {
 	background-size: cover;
 	min-height: 192px;
 }
-.price-main-info .card-header2 {
-	background: url(../images/tickets\ children.jpeg)no-repeat 0px 0px;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-ms-background-size: cover;
-	background-size: cover;
-	min-height: 192px;
-}
-
 
 .price-main-info .card-body {
 	background: #fff;
@@ -910,7 +900,7 @@ footer {
 /*-- /feedback --*/
 
 section.testimonials {
-	background: whitesmoke;
+	background: #00a98f;
 }
 
 .feedback-top p {
@@ -923,10 +913,10 @@ section.testimonials {
 
 .feedback-img {
 	float: left;
-	width: 38%;
+	width: 28%;
 	background: rgba(19, 19, 20, 0.2);
 	padding: 0.3em;
-	border-radius: 10px;
+	border-radius: 6px;
 	-webkit-border-radius: 6px;
 	-o-border-radius: 6px;
 	-ms-border-radius: 6px;
@@ -943,7 +933,7 @@ section.testimonials {
 
 .feedback-info {
 	margin: 0.5em 0 0 0 !important;
-	background: whitesmoke;
+	background: #131314;
 	padding: 1em;
 }
 
@@ -954,7 +944,7 @@ section.testimonials {
 }
 
 .feedback-img-info h5 {
-	color: black;
+	color: #ffffff;
 	font-size: 1.2em;
 	letter-spacing: 1px;
 	font-weight: 700;
